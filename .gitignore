@@ -1,0 +1,9 @@
+# Secrets
+client_secret.json
+token.json
+ 
+# Cloned proto source (re-fetched by gen.ps1)
+googleapis/
+ 
+# Build output
+*.exe
