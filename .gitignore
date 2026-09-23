@@ -7,3 +7,6 @@ googleapis/
  
 # Build output
 *.exe
+
+# Personal exports
+*.csv
